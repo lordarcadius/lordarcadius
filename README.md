@@ -1,5 +1,4 @@
 ## Hey there, I'm Vipul Jha - aka [lordarcadius][website] 👋
----
 #### A Student, Developer & Foodie
 ---
 - 🔭 I’m currently hustling with my startup [HexOnCode](https://hexoncode.com)
