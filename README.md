@@ -1,50 +1,30 @@
-## Hey there, I'm Vipul Jha - aka [lordarcadius][website] 👋
-#### A Student, Developer & Foodie
+## Hey there, I'm [Vipul Jha][website] 👋
+##### A Student, Developer & Foodie
 ---
-- 🔭 I’m currently hustling with my startup [HexOnCode](https://hexoncode.com)
+- 🔭 I’m currently hustling with my startup [Hexoncode](https://hexoncode.com)
 - 🌱 Trying to improve my skills everyday
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read about Space and Defence technologies
 
 ### Connect with me:
 
-[<img align="left" alt="vipuljha.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lordarcadius | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lordarcadius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lordarcadius | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="lordarcadius" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/50/000000/linux.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-<br />
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-lightgray.svg?style=for-the-badge&logo=instagram)][instagram]
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)][twitter]
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:vipul@hexoncode.com)
+[![Facebook](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=google-chrome)][website]
 <br />
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lordarcadius&show_icons=true&hide_border=true&count_private=true" /> <br><br>
+![Vipul's Github Stats](https://github-readme-stats.vercel.app/api?username=lordarcadius&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+<a href="https://github.com/Coders-Of-XDA-OT/covid19-status-android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coders-Of-XDA-OT&repo=covid19-status-android&theme=radical" />
+</a>
+<a href="https://github.com/Coders-Of-XDA-OT/covid19-status-android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lordarcadius&repo=website&theme=radical" />
+</a>
 
 [website]: https://www.vipuljha.com
 [twitter]: https://twitter.com/lordarcadius
