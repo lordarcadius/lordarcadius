@@ -1,7 +1,7 @@
 ## Hey there, I'm [Vipul Jha][website] 👋
 ##### A Student, Developer & Foodie
 ---
-- 🔭 I’m currently hustling with my startup [Hexoncode](https://hexoncode.com)
+- 🔭 I’m currently pursuing my undergrad
 - 🌱 Trying to improve my skills everyday
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read about Space and Defence technologies
