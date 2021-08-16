@@ -22,8 +22,8 @@
 <a href="https://github.com/Coders-Of-XDA-OT/covid19-status-android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coders-Of-XDA-OT&repo=covid19-status-android&hide_border=true&theme=radical" />
 </a>
-<a href="https://github.com/Coders-Of-XDA-OT/covid19-status-android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lordarcadius&repo=website&hide_border=true&theme=radical" />
+<a href="https://github.com/lordarcadius/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lordarcadius&repo=portfolio&hide_border=true&theme=radical" />
 </a>
 
 [website]: https://www.vipuljha.com
