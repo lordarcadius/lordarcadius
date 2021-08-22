@@ -17,14 +17,15 @@
 
 ---
 
-![Vipul's Github Stats](https://github-readme-stats.vercel.app/api?username=lordarcadius&show_icons=true&hide_border=true&count_private=true&theme=radical)
+<!-- ![Vipul's Github Stats](https://github-readme-stats.vercel.app/api?username=lordarcadius&show_icons=true&hide_border=true&count_private=true&theme=radical)
+<img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=lordarcadius&show_icons=true&hide_border=true&locale=en&layout=compact&theme=radical&line_height=0"/>
 
 <a href="https://github.com/Coders-Of-XDA-OT/covid19-status-android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coders-Of-XDA-OT&repo=covid19-status-android&hide_border=true&theme=radical" />
 </a>
 <a href="https://github.com/lordarcadius/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lordarcadius&repo=portfolio&hide_border=true&theme=radical" />
-</a>
+</a> -->
 
 [website]: https://www.vipuljha.com
 [twitter]: https://twitter.com/lordarcadius
