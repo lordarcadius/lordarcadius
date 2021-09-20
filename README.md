@@ -11,7 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)][instagram]
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)][twitter]
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:vipul@hexoncode.com)
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:hey@vipuljha.com)
 [![Facebook](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=google-chrome)][website]
 <br />
 
