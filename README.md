@@ -1,39 +1,68 @@
-## Hey there, I'm [Vipul Jha][website] 👋
-##### A passionate developer, photography and defence enthusiast from India
----
-- ⚡ Currently putting pixels into [Primebook](https://www.primebook.in)
-- 🌱 Trying to improve my skills every day
-- 🥅 2025 Goals: Eat, Sleep, Code & Repeat
-- 🔭 Hobbies: I click good pictures & I'm a defence enthusiast
 
-### Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### Connect with me:
+###
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)][instagram]
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)][twitter]
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:hey@vipuljha.com)
-[![Facebook](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=google-chrome)][website]
-<br />
+<p align="left">I'm Vipul. I'm an Android developer from Delhi, India, with experience in Apps, ROMs, Kernels, & Scripts.</p>
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordarcadius&label=Profile%20views&color=0e75b6&style=flat" alt="lordarcadius" /> </p>
+###
 
-<!-- ![Vipul's Github Stats](https://github-readme-stats.vercel.app/api?username=lordarcadius&show_icons=true&hide_border=true&count_private=true&theme=radical)
-<img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=lordarcadius&show_icons=true&hide_border=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lordarcadius.lordarcadius&"  />
+</div>
 
-<a href="https://github.com/Coders-Of-XDA-OT/covid19-status-android">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coders-Of-XDA-OT&repo=covid19-status-android&hide_border=true&theme=radical" />
-</a>
-<a href="https://github.com/lordarcadius/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lordarcadius&repo=portfolio&hide_border=true&theme=radical" />
-</a> -->
+###
 
-[website]: https://www.vipuljha.com
-[twitter]: https://twitter.com/lordarcadius
-[instagram]: https://instagram.com/lordarcadius
-[linkedin]: https://linkedin.com/in/lordarcadius
-[facebook]: https://facebook.com/lordarcadius
-[xda]: https://forum.xda-developers.com/member.php?u=6546022
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">⚡ Currently putting pixels into Primebook<br>🌱 Trying to improve my skills every day<br>🎯 Goals: Eat, Sleep, Code & Repeat<br>🔭 Hobbies: I click good pictures & I'm a defence enthusiast</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lordarcadius/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.twitter.com/lordarcadius" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
+  <a href="https://www.instagram.com/lordarcadius" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
+</div>
+
+###
