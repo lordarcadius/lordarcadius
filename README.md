@@ -1,12 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" alt="Vipul Jha, Android developer" width="100%">
-</picture>
-
 <p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" alt="Vipul Jha, Android developer" width="100%">
+  </picture>
+  <br>
+  <br>
   <a href="https://www.vipuljha.com"><img src="assets/chips/website.svg" height="36" alt="Website: vipuljha.com"></a>
-  <a href="https://www.vipuljha.com/files/resume.pdf"><img src="assets/chips/resume.svg" height="36" alt="Résumé (PDF)"></a>
+  <a href="https://www.vipuljha.com/files/resume.pdf"><img src="assets/chips/resume.svg" height="36" alt="Resume (PDF)"></a>
   <a href="mailto:hey@vipuljha.com"><img src="assets/chips/email.svg" height="36" alt="Email: hey@vipuljha.com"></a>
 </p>
 
@@ -30,36 +31,21 @@ I'm trying to get a little better every day. Off the clock, I take photos and I'
 ## Stack
 
 <p>
-  <b>Android and mobile</b><br>
   <img src="assets/icons/kotlin.svg" width="48" height="48" alt="Kotlin" title="Kotlin">
   <img src="assets/icons/java.svg" width="48" height="48" alt="Java" title="Java">
   <img src="assets/icons/jetpackcompose.svg" width="48" height="48" alt="Jetpack Compose" title="Jetpack Compose">
   <img src="assets/icons/flutter.svg" width="48" height="48" alt="Flutter" title="Flutter">
   <img src="assets/icons/dart.svg" width="48" height="48" alt="Dart" title="Dart">
   <img src="assets/icons/androidstudio.svg" width="48" height="48" alt="Android Studio" title="Android Studio">
-  <br>
-  <sub>Also AOSP, Chromium, Hilt, Retrofit, Room, Coroutines, Flow, Bloc and GetIt.</sub>
-</p>
-
-<p>
-  <b>Backend and cloud</b><br>
   <img src="assets/icons/aws.svg" width="48" height="48" alt="AWS" title="AWS">
   <img src="assets/icons/cloudflare.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare">
   <img src="assets/icons/firebase.svg" width="48" height="48" alt="Firebase" title="Firebase">
   <img src="assets/icons/supabase.svg" width="48" height="48" alt="Supabase" title="Supabase">
   <img src="assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL">
   <img src="assets/icons/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite">
-</p>
-
-<p>
-  <b>Web</b><br>
   <img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
   <img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML">
   <img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS">
-</p>
-
-<p>
-  <b>Tools</b><br>
   <img src="assets/icons/linux.svg" width="48" height="48" alt="Linux" title="Linux">
   <img src="assets/icons/bash.svg" width="48" height="48" alt="Bash" title="Bash">
   <img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git">
@@ -68,7 +54,7 @@ I'm trying to get a little better every day. Off the clock, I take photos and I'
   <img src="assets/icons/postman.svg" width="48" height="48" alt="Postman" title="Postman">
 </p>
 
-## Elsewhere
+## Connect
 
 <p>
   <a href="https://www.linkedin.com/in/lordarcadius/"><img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn"></a>
