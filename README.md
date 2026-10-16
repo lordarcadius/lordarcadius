@@ -1,68 +1,84 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" alt="Vipul Jha, Android developer" width="100%">
+</picture>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p>
+  <a href="https://www.vipuljha.com"><img src="assets/chips/website.svg" height="36" alt="Website: vipuljha.com"></a>
+  <a href="https://www.vipuljha.com/files/resume.pdf"><img src="assets/chips/resume.svg" height="36" alt="Résumé (PDF)"></a>
+  <a href="mailto:hey@vipuljha.com"><img src="assets/chips/email.svg" height="36" alt="Email: hey@vipuljha.com"></a>
+</p>
 
-###
+## About
 
-<p align="left">I'm Vipul. I'm an Android developer from Delhi, India, with experience in Apps, ROMs, Kernels, & Scripts.</p>
+Android developer from Delhi, India, with experience across apps, ROMs, kernels and scripts. I work at Primebook, building Android apps, system software and backend services.
 
-###
+I'm trying to get a little better every day. Off the clock, I take photos and I'm a defence enthusiast.
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lordarcadius.lordarcadius&"  />
-</div>
+## What I've done
 
-###
+- Developed core apps for a custom Android-based OS.
+- Built an MDM solution on top of Android's DevicePolicyManager.
+- Built an MDM dashboard in Flutter Web.
+- Started and maintain a Chromium-based browser, including background playback and device-management features.
+- Wrote the scripts and SOPs the team uses to sync, manage and build Chromium.
+- Built APIs for MDM and system services, plus internal tools.
+- Built the early backend for a cloud PC offering, with Cashfree payments.
+- Moved app-store storage to Cloudflare R2, saving over $2,000 a month.
 
-<h2 align="left">About me</h2>
+## Stack
 
-###
+<p>
+  <b>Android and mobile</b><br>
+  <img src="assets/icons/kotlin.svg" width="48" height="48" alt="Kotlin" title="Kotlin">
+  <img src="assets/icons/java.svg" width="48" height="48" alt="Java" title="Java">
+  <img src="assets/icons/jetpackcompose.svg" width="48" height="48" alt="Jetpack Compose" title="Jetpack Compose">
+  <img src="assets/icons/flutter.svg" width="48" height="48" alt="Flutter" title="Flutter">
+  <img src="assets/icons/dart.svg" width="48" height="48" alt="Dart" title="Dart">
+  <img src="assets/icons/androidstudio.svg" width="48" height="48" alt="Android Studio" title="Android Studio">
+  <br>
+  <sub>Also AOSP, Chromium, Hilt, Retrofit, Room, Coroutines, Flow, Bloc and GetIt.</sub>
+</p>
 
-<p align="left">⚡ Currently putting pixels into Primebook<br>🌱 Trying to improve my skills every day<br>🎯 Goals: Eat, Sleep, Code & Repeat<br>🔭 Hobbies: I click good pictures & I'm a defence enthusiast</p>
+<p>
+  <b>Backend and cloud</b><br>
+  <img src="assets/icons/aws.svg" width="48" height="48" alt="AWS" title="AWS">
+  <img src="assets/icons/cloudflare.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare">
+  <img src="assets/icons/firebase.svg" width="48" height="48" alt="Firebase" title="Firebase">
+  <img src="assets/icons/supabase.svg" width="48" height="48" alt="Supabase" title="Supabase">
+  <img src="assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL">
+  <img src="assets/icons/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite">
+</p>
 
-###
+<p>
+  <b>Web</b><br>
+  <img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
+  <img src="assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML">
+  <img src="assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS">
+</p>
 
-<h2 align="left">I code with</h2>
+<p>
+  <b>Tools</b><br>
+  <img src="assets/icons/linux.svg" width="48" height="48" alt="Linux" title="Linux">
+  <img src="assets/icons/bash.svg" width="48" height="48" alt="Bash" title="Bash">
+  <img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git">
+  <img src="assets/icons/intellij.svg" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA">
+  <img src="assets/icons/vscode.svg" width="48" height="48" alt="VS Code" title="VS Code">
+  <img src="assets/icons/postman.svg" width="48" height="48" alt="Postman" title="Postman">
+</p>
 
-###
+## Elsewhere
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/lordarcadius/"><img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn"></a>
+  <a href="https://x.com/lordarcadius"><img src="assets/icons/x.svg" width="48" height="48" alt="X" title="X"></a>
+  <a href="https://instagram.com/lordarcadius"><img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram" title="Instagram"></a>
+  <a href="https://medium.com/@lordarcadius"><img src="assets/icons/medium.svg" width="48" height="48" alt="Medium" title="Medium"></a>
+</p>
 
-###
-
-<h2 align="left">Connect with me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lordarcadius/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="https://www.twitter.com/lordarcadius" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
-  <a href="https://www.instagram.com/lordarcadius" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-dark.svg" alt="eat &amp;&amp; sleep &amp;&amp; code &amp;&amp; repeat" width="100%">
+</picture>
